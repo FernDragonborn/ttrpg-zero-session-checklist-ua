@@ -2,7 +2,7 @@
 
 Чекліст для майстрів настільних рольових ігор: про що домовитись до першої гри. Матеріал до воркшопу «Безпека й керування групою».
 
-Онлайн-версія: https://ferndragonborn.github.io/dnd-zero-session-checklist-ua/
+Онлайн-версія: https://ferndragonborn.github.io/ttrpg-zero-session-checklist-ua/
 
 ## Файли
 
