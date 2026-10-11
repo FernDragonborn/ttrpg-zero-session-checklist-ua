@@ -1,3 +1,14 @@
+This repository contains material under several licenses.
+Each part below names what it covers.
+
+
+1. Original content and code: MIT License
+-----------------------------------------
+
+Covers everything in this repository that is not listed in sections 2-4:
+the checklist text written by the author, the page layout, styles and
+scripts.
+
 MIT License
 
 Copyright (c) 2026 Fern Dragonborn
@@ -19,3 +30,49 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+2. Daggerheart SRD material: Darrington Press Community Gaming License
+-----------------------------------------------------------------------
+
+The character background and connection questions quoted in the checklist
+(section 7 "Створення персонажів" and the "Зв'язки за Daggerheart" block)
+come from the Daggerheart System Reference Document 2.0. They are NOT
+covered by the MIT License above and remain under the DPCGL.
+
+This product includes materials from the Daggerheart System Reference
+Document 2.0, © Critical Role, LLC. under the terms of the Darrington Press
+Community Gaming (DPCGL) License. More information can be found at
+https://www.daggerheart.com. There are no previous modifications by others.
+
+Copyright notice: This product includes materials from the Daggerheart
+System Reference Document 2.0 © Critical Role, LLC. All rights reserved.
+
+Modifications: the questions were translated into Ukrainian by
+Fern Dragonborn. The translation is unofficial. No other changes were made.
+
+Daggerheart SRD 2.0: https://www.daggerheart.com/srd
+DPCGL:               https://www.darringtonpress.com/license
+
+Daggerheart is a trademark of Critical Role, LLC. This project is not
+affiliated with, sponsored or endorsed by Critical Role or Darrington Press.
+
+
+3. Fonts: SIL Open Font License 1.1
+-----------------------------------
+
+The fonts embedded in index.html are licensed under the SIL Open Font
+License, Version 1.1 (https://openfontlicense.org):
+
+  Alegreya       Copyright 2011 The Alegreya Project Authors
+                 (https://github.com/huertatipografica/Alegreya)
+  Alegreya Sans  Copyright 2013 The Alegreya Sans Project Authors
+                 (https://github.com/huertatipografica/Alegreya-Sans)
+
+
+4. Third-party quotes
+---------------------
+
+Short quotes from the Critical Role "Age of Umbra" session zero recording
+are cited for commentary and remain the property of their owners. They are
+not covered by the MIT License above.
